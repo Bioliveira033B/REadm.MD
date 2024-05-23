@@ -1,2 +1,0 @@
-# REadm.MD
-js-escreveNome
